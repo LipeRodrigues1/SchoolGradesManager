@@ -1,6 +1,7 @@
 ## 📚 School Grades Manager
 
 Projeto em C# desenvolvido com foco em boas práticas, orientação a objetos e regras de negócio bem definidas.
+Feito com a mecânica "Aprender" do ChatGPt.
 
 ## 🎯 Objetivo
 
