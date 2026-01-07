@@ -1,12 +1,12 @@
 ﻿namespace SchoolGradesManager;
 
-public class Notes
+public class Note
 {
     public double Value { get; private set; }
     public Discipline Discipline { get; private set; }
 
 
-    public Notes(double value, Discipline discipline)
+    public Note(double value, Discipline discipline)
     {
         if (value < 0 || value > 10)
 

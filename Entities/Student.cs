@@ -5,17 +5,17 @@ public class Student
     private static int _contadorId = 1;
     public string Name { get; set; }
     public int Id { get; private set; }
-    private List<Notes> notes;
+    private List<Note> notes;
 
     public Student(string name)
     {   
         Name = name;
         Id = ++_contadorId;
-        notes = new List<Notes>();
+        notes = new List<Note>();
         
     }
 
-    public void AddNote(Notes note)
+    public void AddNote(Note note)
     {
         if(note == null)
         {
@@ -23,12 +23,12 @@ public class Student
         }
         notes.Add(note);
     }
-    public IReadOnlyList<Notes> GetNotas()
+    public IReadOnlyList<Note> GetNotas()
     {
         return notes.AsReadOnly();
     }
 
-    public double AvaregeNotes(Discipline discipline)
+    public double AverageNotes(Discipline discipline)
     {
         var notesForDiscipline = notes.Where(n => n.Discipline.Id == discipline.Id).ToList();
 
@@ -37,5 +37,10 @@ public class Student
             throw new InvalidOperationException("This Student has no grade!");
         }
         return notesForDiscipline.Average(n => n.Value);
+    }
+
+    internal object AvaregeNotes(Discipline matematica)
+    {
+        throw new NotImplementedException();
     }
 }

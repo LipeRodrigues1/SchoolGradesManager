@@ -1,0 +1,15 @@
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\bin\Debug\net10.0\Notas-Escolares.exe
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\bin\Debug\net10.0\Notas-Escolares.deps.json
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\bin\Debug\net10.0\Notas-Escolares.runtimeconfig.json
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\bin\Debug\net10.0\Notas-Escolares.dll
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\bin\Debug\net10.0\Notas-Escolares.pdb
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\obj\Debug\net10.0\Notas-Escolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\obj\Debug\net10.0\Notas-Escolares.AssemblyInfoInputs.cache
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\obj\Debug\net10.0\Notas-Escolares.AssemblyInfo.cs
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\obj\Debug\net10.0\Notas-Escolares.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\obj\Debug\net10.0\Notas-Escolares.sourcelink.json
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\obj\Debug\net10.0\Notas-Escolares.dll
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\obj\Debug\net10.0\refint\Notas-Escolares.dll
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\obj\Debug\net10.0\Notas-Escolares.pdb
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\obj\Debug\net10.0\Notas-Escolares.genruntimeconfig.cache
+C:\Users\Fellipe\OneDrive\Desktop\Fellipe\SchoolGradesManager\obj\Debug\net10.0\ref\Notas-Escolares.dll
