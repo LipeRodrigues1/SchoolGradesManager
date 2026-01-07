@@ -9,7 +9,8 @@ try
     joão.AddNote(new Note(9.0,matematica));
     joão.AddNote(new Note(5.5,portugues));
     
-    Console.WriteLine($"Media em Matemática: {joão.AverageNotes(matematica)}");
+    Console.WriteLine($"Average in Matemática: {joão.AverageNotes(matematica)}");
+    Console.WriteLine($"Situation: {joão.GetSituation(matematica)}");
     
 
 
